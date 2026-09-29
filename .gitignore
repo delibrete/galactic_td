@@ -1,0 +1,21 @@
+# Haxe / OpenFL / Lime build output
+/Export/
+/export/
+/bin/
+/obj/
+
+# Local Haxelib dependencies and configuration
+/.haxelib/
+/.haxelib
+
+# Editor temporary files and user preferences
+/.vscode/
+*.hxproj.user
+*.swp
+*.swo
+*~
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini

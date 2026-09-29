@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="Galactic TD" package="org.eragnarok.galactictd" version="1.0.0" company="Eragnarok" />
+	<app main="Main" path="Export" file="galactictd" />
+
+	<window width="700" height="540" background="#FFFFFF" fps="60"/>
+	
+	<source path="Source" />
+	
+	<haxelib name="openfl" />
+	<haxelib name="seedyrng" />
+	
+	<assets path="Assets/gfx" rename="gfx" embed="true" />
+
+	<assets path="Assets/fonts" rename="fonts" embed="true" />
+	
+	<assets path="Assets/sfx" rename="sfx" embed="true" />
+	
+</project>
